@@ -1,3 +1,5 @@
+Programming Language Used: Python
+
 About game:
 	This game is old, well-known pong game.
 	Game is for 2 people.
