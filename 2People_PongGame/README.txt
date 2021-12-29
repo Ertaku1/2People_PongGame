@@ -1,4 +1,4 @@
-Programming Language Used: Python
+Programming Language Used: Python 3.9
 
 About game:
 	This game is old, well-known pong game.
